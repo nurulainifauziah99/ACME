@@ -151,6 +151,6 @@
         </ActivityAction>
       </ui:OpenBrowser.Body>
     </ui:OpenBrowser>
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="467,61" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="done" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="467,61" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Succesfully" />
   </Sequence>
 </Activity>
